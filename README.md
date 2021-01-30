@@ -1,4 +1,4 @@
-# Search It -> A Google Clone
+# Search It -> A simple search engine
 
 ## Key Features 
 * Image Search
