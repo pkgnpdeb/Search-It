@@ -4,13 +4,13 @@
 * Image Search
 * Web Crawl 
 * Site Search 
-* Pagination Search
+* Pagination Search System
 
 ## Table of contents
 * [General info](#general-info)
 * [Built with](#built-with)
 * [Tools](#tools)
-* [Setup](#project-setup)
+* [Project Setup](#project-setup)
 * [Other Configurations](#other-configurations)
 
 ## General info
@@ -31,7 +31,7 @@ The tools used within this project:
 * Text Editor (Vim, Brackets, Atom, Sublime Text, VS Code - any of them would do fine work)
 * Web Browser 
 
-## Setup
+## Project Setup
 To set up the project in Linux (Debian based distribution):
 ```
 $ wget https://www.apachefriends.org/xampp-files/8.0.0/xampp-linux-x64-8.0.0-2-installer.run
@@ -54,7 +54,8 @@ Other configurations includes:
 ## Screenshots
 * Screenshots will be updated soon
 
-
+## To Do 
+* 
 # LICENSE 
 >You can check out the full license [here](https://github.com/pkgnpdeb/Search-It/blob/main/LICENSE)
 
