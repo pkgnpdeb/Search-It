@@ -55,7 +55,12 @@ Other configurations includes:
 * Screenshots will be updated soon
 
 ## To Do 
-* Will be updated soon
+* Local autocomplete:
+* Geo-location features 
+* Dedicated maps-tags and map re-querying 
+* Enhanched privacy and security options 
+* No storage of logs 
+
 # LICENSE 
 >You can check out the full license [here](https://github.com/pkgnpdeb/Search-It/blob/main/LICENSE)
 
