@@ -34,8 +34,8 @@ The tools used within this project:
 ## Project Setup
 To set up the project in Linux (Debian based distribution):
 ```
-$ wget https://www.apachefriends.org/xampp-files/8.0.0/xampp-linux-x64-8.0.0-2-installer.run
-$ sudo chmod +x xampp-linux-x64-8.0.0-2-installer.run
+$ wget https://www.apachefriends.org/xampp-files/X.0.0/xampp-linux-x64-X.0.0-x-installer.run
+$ sudo chmod +x xampp-linux-x64-X.0.0-x-installer.run
 $ sudo ./xampp-linux-x64-8.0.0-2-installer.run (This will install server on /opt/lampp)
 $ sudo /opt/lampp/lampp start ( To start the server) 
 $ sudo /opt/lampp/lampp restart ( To restart the server) 
@@ -51,11 +51,11 @@ Other configurations includes:
 * Changing the DocumentRoot and Document Directory 
 * Changing daemon access to user and group 
 
-## Screenshots
+## Screenshots and Overview 
 * Screenshots will be updated soon
 
 ## To Do 
-* 
+* Will be updated soon
 # LICENSE 
 >You can check out the full license [here](https://github.com/pkgnpdeb/Search-It/blob/main/LICENSE)
 
